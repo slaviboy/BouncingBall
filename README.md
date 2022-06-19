@@ -2,7 +2,7 @@
 This is old project, I had build back in the days when I was learning Kotlin, it simulates balls physics without using any Physics engine
 
 <p align="center">
-    <img src="https://github.com/slaviboy/RepositoryImages/blob/main/fun/bouncing_ball.png?raw=true" alt="Image"   />
+    <img src="https://github.com/slaviboy/RepositoryImages/blob/main/fun/bouncing_ball_home.png?raw=true" alt="Image"   />
 </p>
 
 ## To do
